@@ -4,10 +4,14 @@
   "description": "Alex Duston's personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "firebase deploy"
   },
-  "author": "",
+  "author": "Alex Duston",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aduston/alexduston.git"
+  },
   "dependencies": {
     "live-server": "^1.2.0"
   },
