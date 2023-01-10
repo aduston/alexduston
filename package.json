@@ -13,7 +13,7 @@
     "url": "git@github.com:aduston/alexduston.git"
   },
   "dependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.2"
   },
   "devDependencies": {
     "firebase-tools": "^3.17.7"
